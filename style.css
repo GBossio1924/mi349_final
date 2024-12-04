@@ -16,6 +16,7 @@
   line-height: 1.8;
   font-size: 40px;
   margin-left: 20px;
+  margin-bottom: 50px;
 }
 
 .survey-card {
@@ -26,6 +27,8 @@
   background: #AAAAAA;
   border: None;
   margin-left: 20px;
+  font-size: 40px;
+  padding: 20px;
 }
 
 .survey {
@@ -35,6 +38,7 @@
   border: None;
   padding-top: 150px;
   padding-bottom: 150px;
+  height: 110%;
 }
 
 .index-info {
