@@ -31,6 +31,10 @@
   padding: 20px;
 }
 
+.survey-button:hover {
+    background: #999999;
+}
+
 .survey {
   background: #777777;
   color: #EEEEEE;
