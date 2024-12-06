@@ -1,7 +1,3 @@
-body {
-  overflow: hidden;
-}
-
 .nav-link {
   color: #EEEEEE;
 }
@@ -50,7 +46,11 @@ border-radius: 0px;
 border: None;
 padding-top: 100px;
 padding-bottom: 100px;
-height: 300%;
+height: 130%;
+}
+
+.thanks-survey-card {
+  height: 150%
 }
 
 .index-info {
@@ -88,5 +88,5 @@ margin-top: 15px;
 }
 
 .about-paragraphs {
-font-size: 36px;
+font-size: 24px;
 }
