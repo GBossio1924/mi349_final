@@ -12,6 +12,10 @@
   width: 100px;
 }
 
+.card-row-layout {
+  --bs-gutter-x: 0;
+}
+
 #survey-text {
 line-height: 1.8;
 font-size: 40px;
