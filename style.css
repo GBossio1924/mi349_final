@@ -1,57 +1,57 @@
 .nav-link {
-    color: #EEEEEE;
-  }
-  
+  color: #EEEEEE;
+}
+
 .nav-link:hover {
-    color: #EEEEEE;
-    background-color: #333333;
+  color: #EEEEEE;
+  background-color: #333333;
 }
 
 .logo {
-    height: 38px;
-    width: 100px;
+  height: 38px;
+  width: 100px;
 }
 
 #survey-text {
-  line-height: 1.8;
-  font-size: 40px;
-  margin-left: 20px;
-  margin-bottom: 50px;
+line-height: 1.8;
+font-size: 40px;
+margin-left: 20px;
+margin-bottom: 50px;
 }
 
 .survey-card {
-  width: 75%;
+width: 75%;
 }
 
 .survey-button {
-  background: #AAAAAA;
-  border: None;
-  margin-left: 20px;
-  font-size: 40px;
-  padding: 20px;
+background: #AAAAAA;
+border: None;
+margin-left: 20px;
+font-size: 40px;
+padding: 20px;
 }
 
 .survey-button:hover {
-    background: #999999;
+  background: #555555;
 }
 
 .survey {
-  background: #777777;
-  color: #EEEEEE;
-  border-radius: 0px;
-  border: None;
-  padding-top: 150px;
-  padding-bottom: 150px;
-  height: 110%;
+background: #777777;
+color: #EEEEEE;
+border-radius: 0px;
+border: None;
+padding-top: 100px;
+padding-bottom: 100px;
+height: 110%;
 }
 
 .index-info {
-  border: None;
-  border-radius: 0px;
+border: None;
+border-radius: 0px;
 }
 
 .info-text {
-  font-size: 24px;
+font-size: 24px;
 }
 
 
