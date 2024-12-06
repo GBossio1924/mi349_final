@@ -54,5 +54,12 @@ border-radius: 0px;
 font-size: 24px;
 }
 
+.thank-you-title {
+font-size: 40px;
+}
 
-
+hr:not([size]) {
+height: 10px; 
+color: #000000;
+border-radius: 5px;
+}
