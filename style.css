@@ -1,7 +1,3 @@
-body {
-  overflow: hidden;
-}
-
 .nav-link {
   color: #EEEEEE;
 }
@@ -14,10 +10,6 @@ body {
 .logo {
   height: 38px;
   width: 100px;
-}
-
-.card-row-layout {
-  --bs-gutter-x: 0;
 }
 
 #survey-text {
@@ -50,7 +42,7 @@ border-radius: 0px;
 border: None;
 padding-top: 100px;
 padding-bottom: 100px;
-height: 300%;
+height: 110%;
 }
 
 .index-info {
@@ -70,4 +62,23 @@ hr:not([size]) {
 height: 10px; 
 color: #000000;
 border-radius: 5px;
+}
+
+.about-header {
+font-size: 40px;
+margin: 25px;
+}
+
+.about-page-break {
+margin: 15px;
+}
+
+.about-col {
+margin-left: 25px;
+margin-right: 25px;
+margin-top: 15px;
+}
+
+.about-paragraphs {
+font-size: 36px;
 }
