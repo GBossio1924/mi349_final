@@ -94,3 +94,55 @@ margin-top: 15px;
 .about-paragraphs {
 font-size: 30px;
 }
+
+.survey-exit-button {
+  background: #777777;
+  border: None;
+  font-size: 36px;
+  margin-top: 25px;
+}
+
+.survey-back-button {
+  background: #DD0000;
+  border: None;
+  font-size: 36px;
+  margin-top: 25px;
+}
+
+.survey-back-button:hover {
+  background: #770000;
+}
+
+.survey-next-button {
+  background: #007700;
+  border: None;
+  font-size: 36px;
+  margin-top: 25px;
+}
+
+.survey-next-button:hover {
+  background: #004400;
+}
+
+.question-text {
+  margin: 25px;
+  font-size: 36px;
+}
+
+.question-subtext {
+  font-size: 24px;
+}
+
+.color-grid-red {
+  background: #FF0000;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-red {
+  background: #DD0000;
+  height: 175px;
+  width: 175px;
+  margin:25px;
+}
