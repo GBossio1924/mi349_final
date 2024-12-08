@@ -8,12 +8,14 @@
 }
 
 .logo {
-  height: 50px;
   width: 200px;
+  background: #FFFFFF;
+  border-radius: 5px;
 }
 
 .home-image {
   margin: 25px;
+  width: 90%;
 }
 
 .card-row-layout {
