@@ -146,3 +146,87 @@ font-size: 30px;
   width: 175px;
   margin:25px;
 }
+
+.color-grid-orange {
+  background: #FF8706;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-orange {
+  background: #FF7006;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.color-grid-yellow {
+  background: #FFFF00;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-yellow {
+  background: #FFCC00;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.color-grid-green {
+  background: #00FF00;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-green {
+  background: #00DD00;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.color-grid-blue {
+  background: #0000FF;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-blue {
+  background: #0000DD;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.color-grid-indigo {
+  background: #4b0082;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-indigo {
+  background: #4B009E;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.color-grid-violet {
+  background: #7F00FF;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
+
+.different-color-grid-violet {
+  background: #a400FF;
+  height: 175px;
+  width: 175px;
+  margin: 25px;
+}
