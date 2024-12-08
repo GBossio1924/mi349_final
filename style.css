@@ -270,4 +270,5 @@ font-size: 30px;
 .results-image {
   margin: 30px;
   text-align: center;
+  border-radius: 5px;
 }
