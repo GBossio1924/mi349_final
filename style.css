@@ -230,3 +230,35 @@ font-size: 30px;
   width: 175px;
   margin: 25px;
 }
+
+
+.results-text {
+  font-size: 36px;
+  margin: 25px;
+}
+
+.results-yes-button {
+  background: #007700;
+  font-size: 36px;
+  border: None;
+  margin: 25px;
+}
+
+.results-yes-button:hover {
+  background: #004400;
+}
+
+.results-no-button {
+  background: #DD0000;
+  font-size: 36px;
+  border: None;
+  margin: 25px;
+}
+
+.results-no-button:hover {
+  background: #770000;
+}
+
+.results-graph-row {
+  background: #666666;
+}
