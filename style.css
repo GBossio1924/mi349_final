@@ -266,3 +266,8 @@ font-size: 30px;
 .results-disclaimer {
   text-align: center;
 }
+
+.results-image {
+  margin: 30px;
+  text-align: center;
+}
