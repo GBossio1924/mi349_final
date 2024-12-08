@@ -262,3 +262,7 @@ font-size: 30px;
 .results-graph-row {
   background: #666666;
 }
+
+.results-disclaimer {
+  text-align: center;
+}
